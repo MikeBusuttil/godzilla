@@ -1,0 +1,4 @@
+- allow manual playing
+- visualize every decision on every turn
+- get a feel for the game
+- devise a strategy
